@@ -1,0 +1,5 @@
+{
+  "name": "Stinger Arkanoid",
+  "description": "A simple Arkanoid-style game featuring Stinger.",
+  "requestFramePermissions": []
+}
